@@ -8,7 +8,7 @@
 
 **Reference URL: https://www.visualcapitalist.com/visualizing-the-daily-routines-of-famous-creative-people/** 
 
-Aim of the visualization:
+#### Aim of the visualization:
 
 The visualization aims to provide insights into the habits and routines of successful and creative individuals. By presenting this information in a visual format, it makes it easier to understand and compare the patterns and similarities among different individuals and can provide inspiration and guidance for others looking to improve their own daily routines.
 
