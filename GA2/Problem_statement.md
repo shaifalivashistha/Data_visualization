@@ -1,9 +1,14 @@
-Find a simple, stand-alone, static visualization and write a short critique on: How effective is it at what it aims to do? What works well and what doesn't? What could be better? (See Week 1, Part 7 lecture video for a briefing of the assignment)
+Pick your hometown or a city you are familiar with, and create a schematic map. You can find the slides for the refrence here.
 
-Make your submission as a comment. It should contain:
+The audience can be tourists (general, or specific types of attractions like pilgrimage, lakes, etc.), or a specific use case (such as cycling, educational institutes, etc.).
 
-- Title of the example with one image (add URL reference if it is online)
-- Short critique (could be in paragraphs or bullet points)
-- You can edit or update your comment up until the submission deadline but do not make multiple comments. If your GitHub username is not your actual name, include it in the comment/comment title.
+You can follow the following steps for your schematic map:
 
-Here are samples ([sample 1](https://github.com/info-design-lab/DE705-Interactive-Data-Visualization/issues/9), [Sample 2](https://github.com/info-design-lab/DE705-Interactive-Data-Visualization/issues/6) of how this is to be submitted. Use examples that are not used in the samples.
+- Scale, Audience & Purpose
+- Mental model sketch
+- Tracing relevant aspects from OSM
+- Abstraction: Grids & geometric shapes
+- Simplification Vs Minimal
+- Elements of the city
+- Visual hierarchy
+- Details: Icons, Typography, Legend, Context
